@@ -1,0 +1,65 @@
+.nav{
+    background-color: #fbe8e6;
+}
+
+img{
+    margin-top: 1vh;
+    display: inline-block;
+    align-items: start;
+}
+
+ul{
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    position: fixed;
+    top: 70px;
+}
+
+li{ 
+    color:#e19741;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+a{
+    display: inline;
+    text-align: center;
+    width: 30vw;
+    text-decoration: none;
+    color: #e19741;
+}
+
+.username{
+    display: inline-block;
+    text-align: center;
+    width: 18vw;
+    position: fixed;
+    right: 0;
+    top: 70px;
+}
+
+.left{
+    display: inline-block;
+    width: 50vw;
+    margin-left: 10vw;
+}
+
+.right{
+    display: inline-block;
+}
+
+.sp{
+    color: #e19741;
+}
+
+button{
+    color: #e19741;
+    background-color: #fbe8e6;
+    border: 2px solid brown;
+    height: 50px;
+    width: 200px;
+    box-shadow: 2px 2px brown;
+    border-radius: 25px;
+}
